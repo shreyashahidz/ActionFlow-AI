@@ -1,0 +1,376 @@
+{
+  "messages": [
+    {
+      "id": "MSG001",
+      "type": "email",
+      "sender": {
+        "name": "Rahul Sharma",
+        "email": "rahul@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Website Launch",
+      "date": "2026-11-02T10:30:00+05:30",
+      "content": "Please complete the payment gateway integration and share the staging URL before Thursday.",
+      "attachments": []
+    },
+    {
+      "id": "MSG002",
+      "type": "email",
+      "sender": {
+        "name": "Priya Nair",
+        "email": "priya.nair@brightmart.example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Product Catalog Upload",
+      "date": "2026-10-27T09:15:00+05:30",
+      "content": "Hi team, we have 120 new products for the Diwali sale. Please upload them to the catalog using the attached spreadsheet and confirm once they are live. We need everything published by 5 November 2026.",
+      "attachments": [
+        "diwali_products.xlsx"
+      ]
+    },
+    {
+      "id": "MSG003",
+      "type": "email",
+      "sender": {
+        "name": "Arjun Mehta",
+        "email": "arjun.mehta@zenlogistics.example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Invoice Format Change",
+      "date": "2026-10-28T14:05:00+05:30",
+      "content": "Could you please update our invoice template to include the GST number and the PO reference? Share a sample PDF for approval when it is ready.",
+      "attachments": []
+    },
+    {
+      "id": "MSG004",
+      "type": "email",
+      "sender": {
+        "name": "Sneha Kulkarni",
+        "email": "sneha.k@greenleaf.example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Mobile Menu Bug on Landing Page",
+      "date": "2026-10-29T11:40:00+05:30",
+      "content": "The navigation menu does not open on iPhones. Please fix this and let us know once the patch is deployed. Our campaign goes live on Monday, 9 November.",
+      "attachments": []
+    },
+    {
+      "id": "MSG005",
+      "type": "email",
+      "sender": {
+        "name": "Vikram Rao",
+        "email": "vikram.rao@orbitedu.example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Quote for Learning Portal",
+      "date": "2026-10-30T16:20:00+05:30",
+      "content": "We would like a quotation for building a student learning portal with login, course pages and a progress dashboard. Please send a detailed estimate by next Friday.",
+      "attachments": []
+    },
+    {
+      "id": "MSG006",
+      "type": "message",
+      "sender": {
+        "name": "Karan Desai",
+        "email": "karan.desai@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "",
+      "date": "2026-10-31T19:45:00+05:30",
+      "content": "This is the third time the checkout page is showing an error. I am losing orders every hour. Please fix this today and call me.",
+      "attachments": []
+    },
+    {
+      "id": "MSG007",
+      "type": "email",
+      "sender": {
+        "name": "Meera Joshi",
+        "email": "meera.joshi@sunrise.example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Delayed Delivery of Reports",
+      "date": "2026-11-01T08:50:00+05:30",
+      "content": "We were promised the monthly analytics report on 28 October and it is still not delivered. This delay is affecting our board meeting. Please explain what went wrong and send the report by tomorrow morning.",
+      "attachments": []
+    },
+    {
+      "id": "MSG008",
+      "type": "email",
+      "sender": {
+        "name": "Anil Kapoor",
+        "email": "anil.kapoor@primetech.example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Unhappy with Support Response",
+      "date": "2026-11-02T13:25:00+05:30",
+      "content": "I raised a ticket five days ago (Ticket #4821) and nobody has replied. Is anyone looking at it? If this is not resolved this week I will have to reconsider our contract.",
+      "attachments": []
+    },
+    {
+      "id": "MSG009",
+      "type": "message",
+      "sender": {
+        "name": "Neha Verma",
+        "email": "neha.verma@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "",
+      "date": "2026-10-29T10:05:00+05:30",
+      "content": "Can we do a quick sync on the sprint plan tomorrow at 3 PM? Please confirm if you are free.",
+      "attachments": []
+    },
+    {
+      "id": "MSG010",
+      "type": "email",
+      "sender": {
+        "name": "Rohit Singh",
+        "email": "rohit.singh@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Client Review Meeting - Agenda",
+      "date": "2026-10-30T12:10:00+05:30",
+      "content": "Our review with Brightmart is on Wednesday, 4 November at 11:00 AM. Please prepare a 10-minute demo of the catalog upload feature and share the slides with me by Tuesday evening.",
+      "attachments": []
+    },
+    {
+      "id": "MSG011",
+      "type": "email",
+      "sender": {
+        "name": "Pooja Iyer",
+        "email": "pooja.iyer@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Reschedule: Design Workshop",
+      "date": "2026-11-02T09:00:00+05:30",
+      "content": "The design workshop planned for Thursday is moved to Friday, 6 November at 2:00 PM. No other changes. Please update your calendars.",
+      "attachments": []
+    },
+    {
+      "id": "MSG012",
+      "type": "email",
+      "sender": {
+        "name": "Sandeep Gupta",
+        "email": "sandeep.gupta@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Minutes of Meeting - 30 Oct",
+      "date": "2026-10-31T10:30:00+05:30",
+      "content": "Please find the minutes attached. Action items: Rahul to share the API docs; the QA team to finish regression testing by 6 November. No reply needed unless you spot corrections.",
+      "attachments": [
+        "MoM_30_Oct.pdf"
+      ]
+    },
+    {
+      "id": "MSG013",
+      "type": "message",
+      "sender": {
+        "name": "Ritu Bansal",
+        "email": "ritu.bansal@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "",
+      "date": "2026-11-02T11:15:00+05:30",
+      "content": "Hey, any update on the SEO audit report? The client is asking again.",
+      "attachments": []
+    },
+    {
+      "id": "MSG014",
+      "type": "email",
+      "sender": {
+        "name": "Manish Tiwari",
+        "email": "manish.tiwari@orbitedu.example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Following up: Quotation",
+      "date": "2026-11-03T10:00:00+05:30",
+      "content": "Just following up on the quotation request I sent last week. Could you share the estimate by tomorrow? Our management meets on Thursday to finalize vendors.",
+      "attachments": []
+    },
+    {
+      "id": "MSG015",
+      "type": "message",
+      "sender": {
+        "name": "Divya Menon",
+        "email": "divya.menon@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "",
+      "date": "2026-11-03T15:30:00+05:30",
+      "content": "Did you get a chance to review the logo options I sent on Friday? Waiting for your pick so I can finalize the files.",
+      "attachments": []
+    },
+    {
+      "id": "MSG016",
+      "type": "email",
+      "sender": {
+        "name": "Farhan Sheikh",
+        "email": "farhan.sheikh@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Re: Hosting Renewal",
+      "date": "2026-11-01T17:00:00+05:30",
+      "content": "Reminder that the hosting plan for the client site renews on 15 November. Please confirm whether we should renew for another year or switch plans.",
+      "attachments": []
+    },
+    {
+      "id": "MSG017",
+      "type": "message",
+      "sender": {
+        "name": "Suresh Pillai",
+        "email": "suresh.pillai@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "",
+      "date": "2026-11-03T08:20:00+05:30",
+      "content": "URGENT: the production server is down and customers cannot log in. Need someone on this immediately!",
+      "attachments": []
+    },
+    {
+      "id": "MSG018",
+      "type": "email",
+      "sender": {
+        "name": "Alok Dubey",
+        "email": "alok.dubey@zenlogistics.example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Payment Gateway Failing - Need Fix Today",
+      "date": "2026-11-02T16:45:00+05:30",
+      "content": "Our payment gateway callback is failing and orders are stuck as unpaid. Please investigate and fix it by end of day today and send us a short incident note.",
+      "attachments": []
+    },
+    {
+      "id": "MSG019",
+      "type": "email",
+      "sender": {
+        "name": "Isha Malhotra",
+        "email": "isha.malhotra@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Contract Needs Signature by Tomorrow",
+      "date": "2026-11-03T09:40:00+05:30",
+      "content": "The vendor agreement must be signed and returned by tomorrow 5 PM or the offer lapses. The final copy is attached. Please review and sign.",
+      "attachments": [
+        "vendor_agreement_final.pdf"
+      ]
+    },
+    {
+      "id": "MSG020",
+      "type": "email",
+      "sender": {
+        "name": "IT Admin Desk",
+        "email": "itadmin@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Scheduled Maintenance on Sunday",
+      "date": "2026-10-28T18:00:00+05:30",
+      "content": "FYI: the office Wi-Fi will be down for maintenance this Sunday from 2 AM to 4 AM. No action is needed from your side.",
+      "attachments": []
+    },
+    {
+      "id": "MSG021",
+      "type": "email",
+      "sender": {
+        "name": "HR Team",
+        "email": "hr@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Updated Leave Policy",
+      "date": "2026-10-29T09:30:00+05:30",
+      "content": "The updated leave policy is now live on the intranet. Please read it at your convenience. No acknowledgement is required.",
+      "attachments": []
+    },
+    {
+      "id": "MSG022",
+      "type": "email",
+      "sender": {
+        "name": "Tech Digest",
+        "email": "newsletter@techdigest.example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "This Week in Web Development",
+      "date": "2026-10-30T07:00:00+05:30",
+      "content": "Top stories: new CSS features, a guide to Laravel queues, and 5 tips for faster APIs. Read more on our site. Unsubscribe anytime.",
+      "attachments": []
+    },
+    {
+      "id": "MSG023",
+      "type": "email",
+      "sender": {
+        "name": "Accounts Team",
+        "email": "accounts@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "October Expense Summary",
+      "date": "2026-11-02T15:00:00+05:30",
+      "content": "October expenses have been recorded. The summary is attached for your records.",
+      "attachments": [
+        "october_expenses.pdf"
+      ]
+    },
+    {
+      "id": "MSG024",
+      "type": "message",
+      "sender": {
+        "name": "Tanvi Shah",
+        "email": "tanvi.shah@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "",
+      "date": "2026-10-29T13:10:00+05:30",
+      "content": "Thanks for sharing the files!",
+      "attachments": []
+    },
+    {
+      "id": "MSG025",
+      "type": "message",
+      "sender": {
+        "name": "Gaurav Patil",
+        "email": "gaurav.patil@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "",
+      "date": "2026-11-01T12:00:00+05:30",
+      "content": "Noted, thanks. Will check on Monday.",
+      "attachments": []
+    },
+    {
+      "id": "MSG026",
+      "type": "email",
+      "sender": {
+        "name": "Kavita Rao",
+        "email": "kavita.rao@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Automatic reply: Out of Office",
+      "date": "2026-10-31T09:05:00+05:30",
+      "content": "I am out of office until 9 November with limited email access. For urgent matters please contact support@example.com.",
+      "attachments": []
+    },
+    {
+      "id": "MSG027",
+      "type": "message",
+      "sender": {
+        "name": "Nikhil Chawla",
+        "email": "nikhil.chawla@example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "",
+      "date": "2026-11-03T12:45:00+05:30",
+      "content": "We need to talk about the thing from yesterday. Let me know.",
+      "attachments": []
+    },
+    {
+      "id": "MSG028",
+      "type": "email",
+      "sender": {
+        "name": "Aditi Rao",
+        "email": "aditi.rao@brightmart.example.com"
+      },
+      "recipient": "team@example.com",
+      "subject": "Launch Prep: Banner Design and Analytics Setup",
+      "date": "2026-11-03T14:10:00+05:30",
+      "content": "Two things before our campaign: first, please send the final homepage banner designs by Friday. Second, set up Google Analytics goal tracking for the checkout page and share the dashboard link with us. The second item is not urgent, anytime next week is fine.",
+      "attachments": []
+    }
+  ]
+}
